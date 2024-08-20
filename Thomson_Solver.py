@@ -4,7 +4,6 @@ import os
 
 '''TO DO:
         - Comment lines
-        - Add energy calculator
         - Add convergence criteria
         - Add read me and how to run, allow acces to all variables from terminal
         - RDF pre and post min
